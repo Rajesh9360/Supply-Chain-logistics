@@ -13,24 +13,6 @@ This logistics dashboard project is designed to provide a comprehensive overview
 - **Data Visualization:** Interactive charts and graphs to visualize logistics data for better decision-making.
 
 
-## Installation
-1. Clone the repository:
-    ```
-    git clone https://github.com/your-username/logistics-dashboard.git
-    ```
-2. Navigate to the project directory:
-    ```
-    cd logistics-dashboard
-    ```
-3. Install dependencies:
-    ```
-    pip install -r requirements.txt
-    ```
-4. Run the application:
-    ```
-    python app.py
-    ```
-5. Access the dashboard in your web browser at `http://localhost:5000`.
 
 ## Usage
 1. **Shipment Tracking:** Enter the tracking number of the shipment you want to track and click on the "Track" button.
