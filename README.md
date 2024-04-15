@@ -7,17 +7,14 @@ Creating a README file for your logistics dashboard on GitHub is a great idea to
 ## Description
 This logistics dashboard project is designed to provide a comprehensive overview of logistics operations, including tracking shipments, monitoring inventory levels, and analyzing transportation routes. It offers a user-friendly interface for efficient management of logistics tasks.
 
+![logistics dashboard-1](https://github.com/Rajesh9360/Supply-Chain-logistics/assets/162157146/31ccf25d-c22a-49ab-b562-75f0eac91a7e)
+
 ## Features
 - **Shipment Tracking:** Real-time tracking of shipments to monitor their status and location.
 - **Inventory Management:** Keep track of inventory levels and receive alerts for low stock.
 - **Route Optimization:** Analyze and optimize transportation routes for cost-effective and timely delivery.
 - **Data Visualization:** Interactive charts and graphs to visualize logistics data for better decision-making.
 
-## Technologies Used
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python, Flask
-- Database: SQLite
-- Visualization: D3.js
 
 ## Installation
 1. Clone the repository:
@@ -52,12 +49,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push to the branch (`git push origin feature-name`).
 5. Create a new pull request.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-For any inquiries or feedback, please contact [Your Name](mailto:your-email@example.com).
 
----
 
-Feel free to customize this template according to your specific project details and requirements.
