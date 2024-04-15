@@ -20,13 +20,7 @@ This logistics dashboard project is designed to provide a comprehensive overview
 3. **Route Optimization:** Enter start and destination points to analyze and optimize transportation routes.
 4. **Data Visualization:** Explore interactive charts and graphs to gain insights into logistics data.
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -am 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Create a new pull request.
+
 
 
 
