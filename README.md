@@ -1,6 +1,3 @@
-Creating a README file for your logistics dashboard on GitHub is a great idea to provide users with essential information about your project. Here's a template you can use:
-
----
 
 # Logistics Dashboard
 
